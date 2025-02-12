@@ -3,7 +3,7 @@
 - 🌱 J’apprends Selenium, les APIs, et des outils d’automatisation.  
 - 💞️ Ouvert à collaborer sur des projets d’IA et de communication.  
 - 😄 Pronom : Il/Lui  
-- ⚡ Fun fact : Je crée des outils innovants comme des générateurs de citations ou des chatbots.  
+- ⚡ Fun fact : Je crée des outils innovants comme des générateurs de citations ou des chatbots avec l'aide d'ia générative.  
 
 
 <!---
